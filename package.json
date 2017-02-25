@@ -6,7 +6,7 @@
         "build": "src/**/*.*"
     },
     "scripts": {
-        "build": "make",
+        "build": "cmake ./ && make",
         "start": "npm-watch"
     },
     "repository": {
