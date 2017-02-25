@@ -17,3 +17,6 @@ CTestTestfile.cmake
 compile_commands.json
 install_manifest.txt
 CMakeCache.txt
+
+# Npm
+node_modules/

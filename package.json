@@ -1,0 +1,20 @@
+{
+    "name": "algorithms",
+    "author": "Vis Viva",
+    "version": "1.0.0",
+    "watch": {
+        "build": "src/**/*.*"
+    },
+    "scripts": {
+        "build": "make",
+        "start": "npm-watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/VisViva/algorithms-in-c.git"
+    },
+    "license": "ISC",
+    "devDependencies": {
+        "npm-watch": "^0.1.8"
+    }
+}
