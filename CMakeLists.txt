@@ -7,6 +7,7 @@ include_directories(src)
 # Include sources
 file(GLOB SOURCES
 	"src/*.c"
+	"src/data-structures/*.c"
 	"src/fundamental/*.c"
 )
 
